@@ -3,7 +3,7 @@
 ![I am Austrian national living in the Philippines since 2006. 
 I set up 3 companies in tourism which are currently in hibernation.
 This brings me back to my carrer in IT.]
-(https://wolfgangdafert.com/wp-content/uploads/2020/11/main_slide_wolfgang_dafert-270x270.jpg
+(main_slide_wolfgang_dafert-270x270](https://user-images.githubusercontent.com/42965956/98490968-47b93880-226e-11eb-86a2-e7ed7e445a6b.jpg
 "Wolfgang")
 
 

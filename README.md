@@ -1,52 +1,30 @@
 # Hello, I am Wolfgang.
 
-![I am Austrian national living in the Philippines since 2006. 
-I set up 3 companies in tourism which are currently in hibernation.
-This brings me back to my carrer in IT.]
-(main_slide_wolfgang_dafert-270x270](https://user-images.githubusercontent.com/42965956/98490968-47b93880-226e-11eb-86a2-e7ed7e445a6b.jpg
-"Wolfgang")
+![Wolfgang in a neoprene shirt inside a swimming pool](https://user-images.githubusercontent.com/42965956/98491087-ae3e5680-226e-11eb-84da-8a8dbb4c7cc7.jpg)
+
+Austrian national since 2006 living in the Philippines.
+I set up 3 successful companies here which are due to Covid 19 in hibernation.
+This brings me back to my old job - IT.
+
+What can i help you with?
+
+  - Wordpress and Joomla development
+  - Webshops (WooCommerce, Shopify)
+  - Business consulting
+  - And i am a junior Java and JavaScript developer 
+  - My portfolio includes full stack MERN applications
+   - [My portfolioTCR](https://www.youtube.com/watch?v=CXC8e_Mkoow)
+  
+## Where to find more information
+
+Please visit my website [Wolfgang Dafert](https://wolfgangdafert.com/) for more information.
+
+## My companies
+  - [Freediving-Philippines](https://freediving-philippines.com/)
+  - [Cyan Adventures](http://cyan-adventures.com/)
+  - [Woggles - Wooden Goggles](https://www.woggles.shop/)
 
 
-[![Two Capybara, which are like massively sized up guinea pigs, like
-sized up to dog size, in a concrete bowl at Bristol
-Zoo](https://media.githubusercontent.com/media/PurpleBooth/PurpleBooth/main/capy.jpg
-"Aren't they neat?")](https://commons.wikimedia.org/wiki/File:Bristol.zoo.capybara.arp.jpg)
+## What makes m
+I am native German speaker and fluent in English
 
-> Like guinea pigs the size of sheep - Photo by
-> [Arpingstone](https://commons.wikimedia.org/wiki/File:Bristol.zoo.capybara.arp.jpg)
-
-I don't make anything important. Got a couple of things that others seem
-to like though
-
-  - [git-mit](https://github.com/PurpleBooth/git-mit/) - Helps you set
-    co-authers on git commits, and will add in ticket numbers for you
-  - [A Good README
-    Template](https://github.com/PurpleBooth/a-good-readme-template) -
-    Semi-tutorial, semi-template on how to make a good README
-  - [A snippet pack for
-    alfred](https://github.com/PurpleBooth/alfred-emoji-snippet-pack) -
-    I wanted all the Emoji's in my alfred, so I made this
-  - [dotfiles](https://github.com/PurpleBooth/dotfiles) - My dotfiles
-    are also kicking about in here too
-
-## Pretending I know things
-
-I have spoken a bunch of places, Google is the best way to find those,
-but here's some recent recordings I kinda like
-
-  - [FizzBuzz using TDD (in
-    Rust)](https://www.youtube.com/watch?v=x2dKBLGsYv4)
-  - [Mutation Testing](https://www.youtube.com/watch?v=4Pi9JbG8gto)
-  - [TCR](https://www.youtube.com/watch?v=CXC8e_Mkoow)
-
-I also sometimes write things. Lately that's been on the Armakuni blog,
-like this [VSM
-article](https://cloudnative.ly/running-a-value-stream-mapping-session-5e1d43fba0).
-
-## Short form screaming
-
-If you want to read the terrible things I tweet and toot, you can follow
-below. I mostly tweet about tech-y stuff and sometimes trans stuff.
-
-  - [@PurpleBooth - Twitter](https://twitter.com/PurpleBooth)
-  - [@PurpleBooth - Mastodon](https://mastodon.technology/@PurpleBooth)

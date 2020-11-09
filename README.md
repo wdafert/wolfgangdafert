@@ -13,9 +13,9 @@ What can i help you with?
   - Business consulting
   - And i am a junior Java and JavaScript developer 
   - My portfolio includes full stack MERN applications
-   - [My portfolioTCR](https://www.youtube.com/watch?v=CXC8e_Mkoow)
+  - [My portfolioTCR](https://wolfgangdafert.com/my-work/)
   
-## Where to find more information
+## Where to find more information and contact me
 
 Please visit my website [Wolfgang Dafert](https://wolfgangdafert.com/) for more information.
 
@@ -23,7 +23,6 @@ Please visit my website [Wolfgang Dafert](https://wolfgangdafert.com/) for more 
   - [Freediving-Philippines](https://freediving-philippines.com/)
   - [Cyan Adventures](http://cyan-adventures.com/)
   - [Woggles - Wooden Goggles](https://www.woggles.shop/)
-
 
 ## What makes m
 I am native German speaker and fluent in English
